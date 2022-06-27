@@ -1,0 +1,1 @@
+<view><view class="order-text"><text>订单支付完成</text></view><view class="order-container"><block wx:for="{{cart}}" wx:for-item="goods" wx:for-index="i" wx:key="i"><view class="order-item"><block wx:if="{{goods.goods_state===true}}"><my-goods vue-id="{{'744d27ae-1-'+i}}" goods="{{goods}}" showNun1="{{true}}" bind:__l="__l"></my-goods></block></view></block></view></view>
