@@ -16,6 +16,6 @@
 ![image](https://user-images.githubusercontent.com/93535489/175956865-b11fd627-f27b-43d1-a214-e7e0f6ce040d.png)
 ### 购物车页面
 ![image](https://user-images.githubusercontent.com/93535489/175957120-1cb4aade-ee4b-48b2-8a2c-0ed40a23971b.png)
-###结算订单页面
+### 结算订单页面
 ![image](https://user-images.githubusercontent.com/93535489/175957703-e829e88c-c6f5-45d0-91c4-647f199b99a3.png)
 
