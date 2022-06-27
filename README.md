@@ -13,7 +13,7 @@
 ### 商品搜索页面
 ![image](https://user-images.githubusercontent.com/93535489/175956654-f6c755d3-322d-458a-9122-2d457859128c.png)
 ### 商品列表页面
-![image](https://user-images.githubusercontent.com/93535489/175956721-d7c1ed5e-e5bd-4e90-9fb3-8d3408a3eed0.png)
+![image](https://user-images.githubusercontent.com/93535489/175961984-537d4f5f-c353-4a7a-9fa0-dbef6a676e73.png)
 ### 商品详情页面
 ![image](https://user-images.githubusercontent.com/93535489/175956865-b11fd627-f27b-43d1-a214-e7e0f6ce040d.png)
 ### 购物车页面
